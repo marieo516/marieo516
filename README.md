@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact : I am intentionally keeping my personal projects small so I can focus more on my schoolwork as a 2nd-year CS student. 
 - 🌱 I’m currently learning/interested in : IoT programming and experimenting with projects on my Raspberry Pi.
 - 💻 I enjoy : Creating useful tools and applications.
+- 👀 I am currently looking for : An internship.
