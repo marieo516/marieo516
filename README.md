@@ -1,17 +1,18 @@
-## Hi 👋
-<!--
-**marieo516/marieo516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Computer Science Student | Web & Software Development
 
-Here are some ideas to get you started:
+I'm a Computer Science student currently looking for a programming internship.
 
-- ⚡ Fun fact :
-- 👯 I’m looking to collaborate on :
-- 🤔 I’m looking for help with :
-- 📫 How to reach me: :
-- 💬 Ask me about :
--->
+I enjoy building practical applications and exploring different areas of software development, from full-stack web applications to IoT projects.
 
-- 🔭 I’m currently working on (personnal projects) : A vehicule management app in Java that helps organize, track, and manage vehicle information and maintenance efficiently that uses an SQLite database.
-- 🌱 I’m currently learning/interested in : IoT programming and experimenting with projects using my Raspberry Pi.
-- 💻 I enjoy : Creating useful tools and applications.
-- 👀 I am currently looking for : An internship.
+### Projects
+
+- 🍪 **[Biscuits](link)** — Full-stack Angular application with a PHP/MySQL backend
+- 🌡️ **[Humidity Checker](link)** — Raspberry Pi IoT project using a humidity sensor
+- 🖥️ **[LTI](link)** — Personal utility application (which I personally have running on Raspberry Pi)
+- 🧹 **[PC Cleanup](link)** — Windows utility for automating routine maintenance
+
+### Currently
+
+- 🎓 Studying Computer Science at Cégep de Lévis
+- 💼 Looking for a **programming internship**
+- 🔨 Building projects through school and personal work
