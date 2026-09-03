@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about :
 -->
 
-- 🔭 I’m currently working on (personnal projects) : A vehicule management desktop app in Java that helps organize, track, and manage vehicle information and maintenance efficiently that uses an SQLite database.
+- 🔭 I’m currently working on (personnal projects) : A vehicule management app in Java that helps organize, track, and manage vehicle information and maintenance efficiently that uses an SQLite database.
 - 🌱 I’m currently learning/interested in : IoT programming and experimenting with projects using my Raspberry Pi.
 - 💻 I enjoy : Creating useful tools and applications.
 - 👀 I am currently looking for : An internship.
