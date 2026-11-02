@@ -6,10 +6,11 @@ I enjoy building practical applications and exploring different areas of softwar
 
 ### Projects
 
-- 🍪 **[Biscuits](https://github.com/marieo516/biscuits)** — Full-stack Angular application with a PHP/MySQL backend
+- **[Dev Project Planner](https://github.com/marieo516/dev_project_planner)** — Android mobile application with fully local use and choice to backup with Firebase
+- 🍪 **[Biscuits](https://github.com/marieo516/biscuits)** — Full-stack Angular web application with a PHP/MySQL backend
 - 🌡️ **[Humidity Checker](https://github.com/marieo516/humidity_checker_IoT)** — Raspberry Pi IoT project using a humidity sensor
 - 🖥️ **[LTI](https://github.com/marieo516/LTI)** — Personal utility application (which I personally have running on Raspberry Pi)
-- 🗒️ **[Raspberry Pi Manager](https://github.com/marieo516/raspberry_pi_system_manager)** — Dashboard of important system info to manage a Raspberry Pi
+- 🗒️ **[Raspberry Pi Manager](https://github.com/marieo516/raspberry_pi_system_manager)** — Dashboard of important system info to manage a Raspberry Pi (frontend unfinished)
 - 🧹 **[PC Cleanup](https://github.com/marieo516/pc_cleanup)** — Windows utility for automating routine maintenance
 
 ### Currently
